@@ -6,4 +6,4 @@
 
 ### Output
 
-!(output)(soteria.png)
+![output](soteria.png)
