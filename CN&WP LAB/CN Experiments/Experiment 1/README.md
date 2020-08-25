@@ -1,8 +1,6 @@
 # Experiment 1
 Character Count
 
-## Aim of experiment
-
 ### Step by Step Procedure
 1. First scan the number of frames required.
 2. Scan the frames.
