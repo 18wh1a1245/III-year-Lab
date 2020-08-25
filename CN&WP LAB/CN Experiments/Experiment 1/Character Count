@@ -1,0 +1,32 @@
+#include<stdio.h>
+#include<string.h>
+int main() {
+        
+	int nf;
+        char fr[10][10];
+        
+        printf("ENTER NUMBER OF FRAMES:");
+        scanf("%d", &nf);
+        
+	for(int i= 0; i< nf; i++){
+           printf("FRAME-%d:", i+1);
+           scanf("%s", fr[i]);
+        }
+
+        printf("\nAT THE SENDER\nDATA AS FRAMES:\n");
+        
+	for(int i= 0; i< nf; i++){
+           printf("FRAME-%d:%ld %s", i+1, (strlen(fr[i])+1), fr[i]);
+           printf("\n");
+	   printf("Data Transmitted: ",(strlen(fr[i]+1)
+        }
+        
+	printf("\nAT THE RECEIVER\nDATA RECEIVED:\n");
+        printf("the data in frame form:\n");
+
+	for (int i= 0; i< nf; i++){
+		printf("FRAME-%d:%s\n", i+1, fr[i]);
+        }
+
+        return 0;
+}
