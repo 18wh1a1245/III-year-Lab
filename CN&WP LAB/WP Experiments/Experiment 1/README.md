@@ -7,4 +7,4 @@ Registration Form
 3. can add picture.
 
 ### Output
-![output](reg_form.png)
+![output](Reg_form.png)
