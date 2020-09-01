@@ -5,4 +5,4 @@
 ### Step by Step Procedure of Experiment
 
 ### Output
-![Output](reg_form.png)
+![output](reg_form.png)
