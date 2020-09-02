@@ -1,4 +1,5 @@
 # Experiment 1
+### Aim
 Character Count
 
 ### Step by Step Procedure
@@ -11,3 +12,18 @@ Character Count
 
 ### Output
 ![output](charactercount.png)
+
+
+
+### Aim
+Bit Stuffing
+
+### Output
+![output](bitstuffing.png)
+
+
+### Aim
+Character Stuffing
+
+### Output
+![output](characterstuffing.png)
